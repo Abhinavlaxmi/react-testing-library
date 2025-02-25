@@ -12,6 +12,7 @@
 ## Folder Structure
 `
 /src
+ 
   ├── components/   
   ├── tests/        
   ├── __mocks__/ 

@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import TextCmp from './components/TextCmp';
+// import TextCmp from './components/TextCmp';
+import InputCmp from './components/InputCmp';
 
 function App() {
   return (
-    <TextCmp />
+    // <TextCmp />
+    <InputCmp />
   );
 }
 
